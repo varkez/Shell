@@ -1,0 +1,5 @@
+Credentials cache: API:29684
+        Principal: fcariou@LE-101.FR
+
+  Issued                Expires               Principal
+Sep 10 14:01:31 2017  Sep 17 14:01:27 2017  krbtgt/LE-101.FR@LE-101.FR
